@@ -1,0 +1,11 @@
+1. General --> Workspace --> UTF-8
+2. General --> Editors --> Associations --> JSP --> MyEclipse JSP Editor
+3. 搜索jsp --> UTF-8
+4. Java --> Installed JREs --> 添加
+5. Tomcat
+6. 去除MyEclise自带tomcat
+7. General --> Startup and Shutdown --> MyEclipse Derby
+
+如果你是win7系统，还要修改字体：
+第一步：C:\Windows\Fonts，找到Courier New，鼠标右键-->显示
+第二步：Ceneral --> Appearance --> Colors and Fonts --> Basic --> Text Font --> Edit，选择Courier New字体

@@ -1,0 +1,5 @@
+导入源代码：
+1. 执行sql脚本：itcastgoods\毕设\数据库设计\goods.sql
+2. 打开myeclipse，把itcastgoods\毕设\项目源代码导入：
+　　* 在myeclipse创建一个名为goods新项目
+　　* 把源代码中的src和webroot导入即可。
